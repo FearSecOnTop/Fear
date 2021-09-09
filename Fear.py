@@ -8,7 +8,7 @@ X = str(input("#1 to start me :):"))
 if '#1' or '#2' in X:
 	    os.system(' clear ')
 	    time.sleep(0.1)
-	     print(Fore.RED+"                       WHO ARE YOU?                  ")
+       print(Fore.RED+"                       WHO ARE YOU?                  ")
        time.sleep(0.1)
        print(Fore.RED+"                      :>3qKKKKKKKq3>:                ")
        time.sleep(0.1)
